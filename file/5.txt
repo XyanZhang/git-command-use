@@ -1,1 +1,4 @@
 这个文件是在new2 
+master　新增
+
+该文件是在master 基础上，rebase new-2, 也会解决冲突
