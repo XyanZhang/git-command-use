@@ -1,2 +1,6 @@
 # myFirstTest
-Test how to use the github.
+
+Learning how to use git commands
+
+## git rebase
+
